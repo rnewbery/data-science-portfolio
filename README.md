@@ -1,9 +1,6 @@
-# data-analysis-portfolio
-Projects from IBM Data Science Certificate
-This repository will hold projects from my IBM Data Science Professional Certificate course
-## Projects Coming Soon
+# Rae Newbery - Data Portfolio
+Welcome! This portfolio containes applied projects combining data analysis, ecology and research communication.
 
-- (Python, Pandas)
-- Data Visualization with Matplotlib
-- SQL for Business Analysis
-- Capstone: Real-World Data Science Case Study
+## Featured Projects
+- [Wetland Bird Trends Analysis] (./wetland-bird-analysis)
+- [Biodiversity Dashboard (Power BI)]
