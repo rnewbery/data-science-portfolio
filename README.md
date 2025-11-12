@@ -1,4 +1,4 @@
-# data-science-portfolio
+# data-analysis-portfolio
 Projects from IBM Data Science Certificate
 This repository will hold projects from my IBM Data Science Professional Certificate course
 ## Projects Coming Soon
