@@ -1,0 +1,40 @@
+# Tree Survey Summary
+
+This project analyses data collected from a small-scale tree survey to explore relationships between tree species, height, canopy cover, and site conditions.  
+The script processes raw survey data, calculates summary statistics, and produces basic visual outputs to support ecological reporting and habitat assessments.
+
+---
+
+## Project Purpose
+
+This project was designed to apply data handling and analysis techniques to real-world ecological field data.  
+It demonstrates how Python can be used to automate data summaries, explore relationships between variables, and visualise environmental datasets.
+
+---
+
+## Features
+
+- Imports and cleans tree survey data  
+- Calculates basic descriptive statistics (mean, min, max, count)  
+- Groups results by species or site for comparison  
+- Generates summary tables and charts  
+- Saves results to a formatted text file for reporting  
+
+---
+
+## Skills Demonstrated
+
+- **Python 3:** Data manipulation, summarisation, and plotting  
+- **Pandas:** Importing, cleaning, and aggregating tabular data  
+- **Matplotlib:** Creating basic charts for visual reporting  
+- **File Handling:** Writing summary results to `.txt` files  
+- **Data Communication:** Presenting ecological data in a clear and reproducible format  
+
+---
+
+## How to Run
+
+1. Clone or download this repository  
+2. Ensure Python 3.x and the following packages are installed:
+   ```bash
+   pip install pandas matplotlib
