@@ -6,8 +6,9 @@ Welcome! This portfolio contains applied projects combining data analysis, ecolo
 
 ### Featured Projects
 - [Western Kingbird Analysis](./western-kingbird-analysis)
-- [Wetland Bird Trends Analysis]
-- [Biodiversity Dashboard (Power BI)]
+- 
+**Wetland Bird Trends Analysis** – *Coming soon: seasonal abundance and distribution modelling in R*  
+- **Biodiversity Dashboard (Power BI)** – *Coming soon: visualising habitat data and survey metrics*
 
 ---
 
