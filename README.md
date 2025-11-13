@@ -1,7 +1,7 @@
 # Rae Newbery – Data Portfolio
 
 Welcome! This portfolio contains applied projects combining data analysis, ecology, and research communication.  
-It highlights analytical and visual projects developed using **R, Python, and Power BI** — each grounded in real or simulated ecological data.
+It highlights analytical and visual projects developed using **R, Python, and Power BI** - each grounded in real or simulated ecological data.
 
 ---
 
