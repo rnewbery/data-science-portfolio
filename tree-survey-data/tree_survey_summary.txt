@@ -1,0 +1,9 @@
+Tree Survey Summary
+
+Oak - Count: 15 - Status: Dominant
+Birch - Count: 8 - Status: Common
+Rowan - Count: 5 - Status: Common
+Sycamore - Count: 2 - Status: Rare
+Willow - Count: 6 - Status: Common
+
+Total Trees Recorded: 36
