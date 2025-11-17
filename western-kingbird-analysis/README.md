@@ -31,13 +31,13 @@ Sub-population explained approximately 20% of the variation in tarsus length (rÂ
 ---
 
 ### Visualisations
-Scatterplot: Tarsus Length vs Mass
+*Scatterplot: Tarsus Length vs Mass*
 ![Scatterplot](plots/scatterplotkingbirds.png)
 
-Boxplot: Tarsus Length by Subpopulation
+*Boxplot: Tarsus Length by Subpopulation*
 ![Boxplot](plots/boxplotkingbirds.png)
 
-Histogram: Residual Distribution
+*Histogram: Residual Distribution*
 ![Histogram](plots/histogramkingbirds.png)
 
 ---
