@@ -23,6 +23,25 @@ Investigate whether tarsus length differs between northern and southern populati
 
 ---
 
+### Results
+The tarsus length of male western kingbirds differed significantly between the northern and southern populations (F₁,₅₈ = 14.70, P = [insert value]).
+Southern birds had a longer mean tarsus length by 1.21 mm (± 0.31 SE).
+Sub-population explained approximately 20% of the variation in tarsus length (r² = 0.20).
+
+---
+
+### Visualisations
+Scatterplot: Tarsus Length vs Mass
+plots/scatterplot kingbirds.png
+
+Boxplot: Tarsus Length by Subpopulation
+plots/boxplot kingbirds.png
+
+Histogram: Residual Distribution
+plots/histogram kingbirds.png
+
+---
+
 ### Example R Code
 ```r
 kingbirds <- read.csv(file.choose(), stringsAsFactors = TRUE)
