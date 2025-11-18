@@ -1,0 +1,66 @@
+# Wetland Bird Survey Dashboard – RSPB Pulborough Brooks (August 2025)
+
+This repository contains a complete workflow for analysing wetland bird observations collected during a timed vantage-point survey at **RSPB Pulborough Brooks** on **24 August 2025**.  
+The project demonstrates ecological data processing, biodiversity metric calculation, pivot-table summarisation, and interactive dashboard creation using **Google Sheets / Excel**.
+
+---
+
+## Project Overview
+
+The goal of the project was to transform raw field observations into a clear, visually structured dashboard.  
+Key ecological questions addressed:
+
+**1. How does species abundance differ between habitat types?**  
+**2. Which habitats support highest biodiversity (species richness & Shannon Diversity H’)?**  
+**3. Which species are most abundant within wetland habitats?**  
+**4. What behaviours were observed during the survey?**  
+**5. What proportion of detections were visual vs acoustic?**
+
+---
+
+## 📊 Dashboard Outputs
+
+The final dashboard includes:
+
+### **Habitat-Level Metrics**
+- Total Abundance per Habitat  
+- Species Richness per Habitat  
+- Shannon Diversity Index (H’)  
+- Shannon Diversity (H’) Visual Only  
+
+### **Wetland-Specific Outputs**
+- Wetland Bird Species Richness  
+- Most Abundant Wetland Species (Visual Records Only)  
+- Wetland Behaviour Frequencies  
+
+### **Detection Type Breakdown**
+- Percentage of Visual vs Acoustic Records  
+
+### **Environmental Summary**
+- Temperature  
+- Wind Speed / Direction  
+- Weather  
+- Habitat Descriptions  
+- Start Times for Each Vantage Point  
+
+All visualisations were created using pivot tables and Google Sheets charts.
+
+---
+
+## Data Processing Steps
+
+1. Imported raw field notes into Google Sheets  
+2. Cleaned species names and standardised categorical fields  
+3. Added a **“Wetland Species (Yes/No)”** classification field  
+4. Filtered out acoustic detections for abundance-based charts  
+5. Generated pivot tables for counts, richness, and behaviour  
+6. Computed biodiversity metrics:  
+   - **Species Richness per Habitat**  
+   - **Total Abundance**  
+   - **Shannon Diversity Index (H’)**  
+7. Created a structured dashboard with consistent formatting  
+
+---
+
+## 📂 Repository Structure
+
