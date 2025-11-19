@@ -20,7 +20,7 @@ It highlights analytical and visual projects developed using **R, Python, and Po
   *Skills:* Python (Pandas, Matplotlib), ecological data summaries, visual reporting.
 
 - [**Wetland Bird Trends Analysis**](./wetland-bird-survey)  
-  Seasonal abundance and distribution modelling in R.
+  Data cleaning, summary statistics, species abundance, Shannon Diversity calculations, habitat-level summaries, and dashboard visualisations.
 
 - [**Biodiversity Dashboard (Power BI)**] – *Coming soon*  
   Interactive visualisation of habitat data and survey metrics.
